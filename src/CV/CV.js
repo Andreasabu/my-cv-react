@@ -20,7 +20,7 @@ export const CV={
             },
           ],
         },
-          education: [
+      education: [
             {
               name: "Web Developer fullstack",
               date: "2021/2022",
@@ -37,7 +37,7 @@ export const CV={
                 where: "UAB",
             },
           ],
-          experience: [
+      experience: [
             {
               name: "Administrative Specialist",
               date: "2018 – Nowadays",
@@ -53,7 +53,7 @@ export const CV={
                 "We combine the expertise and agility of a boutique learning partner with the resources of a trusted, global organization.",
             },
           ],
-          languages: [{
+      languages: [{
             language: "English",
             wrlevel: "Advanced",
             splevel: "Advanced",
@@ -79,7 +79,7 @@ export const CV={
             splevel: "pre Intermediate",
           },
         ],
-          skills: [
+      skills: [
             "Problem-solving mindset",
             "Communication skills",
             "Independance",
