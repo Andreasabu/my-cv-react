@@ -8,7 +8,7 @@ const Hero = ({ hero }) => {
       <img src={hero.image} alt="" />
       <div className="card">
       <h2>
-        {hero.name} {hero.adress}
+        {hero.name} {hero.lastname}
       </h2>
         <p>🗺️{hero.city} </p>
         <p>🗓️{hero.birthDate}</p>

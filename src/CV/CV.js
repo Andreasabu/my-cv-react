@@ -20,7 +20,7 @@ export const CV={
             },
           ],
         },
-      education: [
+    education: [
             {
               name: "Web Developer fullstack",
               date: "2021/2022",
